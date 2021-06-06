@@ -1,5 +1,6 @@
 #include <get_children.h>
 #include <iostream>
+#include <string>
 
 void print_tree(flecs::entity entity) 
 {
